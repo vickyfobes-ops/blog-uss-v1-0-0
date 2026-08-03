@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blog—USS—v1.0.0"
+  short_description: "竞品方法论驱动的双语 Shopify SEO 博客写作与交付"
+  default_prompt: "使用 Blog—USS—v1.0.0，从选题、竞品结构、搜索意图到双语文章、配图、DOCX、HTML 和 SEO 元数据，完成一套可发布博客。"
